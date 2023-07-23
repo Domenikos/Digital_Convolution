@@ -12,4 +12,4 @@ You can open the project in a Google Colab by clicking on the link below.  If yo
 
 To run the code for this book on Binder, press this button:
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/Domenikos/Digital_Convolution)
+[![Binder]([http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Domenikos/Digital_Convolution/Digital_Convolution.ipynb)
