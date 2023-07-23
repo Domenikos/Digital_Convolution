@@ -7,3 +7,9 @@ The project was created to introduce and demonstrate basic concepts of convoluti
 You can open the project in a Google Colab by clicking on the link below.  If you would like to save changes, you can copy the file to your Google Drive, GitHub repo, or your computer.
 
 * [Digital_Convolution.ipyng](https://colab.research.google.com/github/Domenikos/Digital_Convolution/blob/main/Digital_Convolution.ipynb)
+
+### Option 2: Run on Binder
+
+To run the code for this book on Binder, press this button:
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/Domenikos/Digital_Convolution)
